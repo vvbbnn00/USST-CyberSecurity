@@ -1,0 +1,286 @@
+[The Castle. Another part of the fortifications.]
+
+Enter Ghost, and Hamlet.
+
+HAMLET:
+Whither wilt thou lead me? Speak! I'll go no further.
+GHOST:
+Mark me.
+HAMLET:
+I will.
+GHOST:
+My hour is almost come,
+When I to sulphurous and tormenting flames(5)
+Must render up myself.
+HAMLET:
+Alas, poor ghost!
+GHOST:
+Pity me not, but lend thy serious hearing
+To what I shall unfold.
+HAMLET:
+Speak; I am bound to hear.(10)
+GHOST:
+So art thou to revenge, when thou shalt hear.
+HAMLET:
+What!
+GHOST:
+I am thy father's spirit,
+Doom'd for a certain term to walk the night,
+And for the day confined to fast in fires,(15)
+Till the foul crimes done in my days of nature
+Are burnt and purged away. But that I am forbid
+To tell the secrets of my prison-house,
+I could a tale unfold whose lightest word
+Would harrow up thy soul, freeze thy young blood,(20)
+Make thy two eyes, like stars, start from their spheres,
+Thy knotted and combined locks to part,
+And each particular hair to stand an end
+Like quills upon the fretful porpentine.
+But this eternal blazon must not be(25)
+To ears of flesh and blood. List, list, O, list!
+If thou didst ever thy dear father love—
+HAMLET:
+O God!
+GHOST:
+Revenge his foul and most unnatural murder.
+HAMLET:
+Murder?(30)
+GHOST:
+Murder most foul, as in the best it is;
+But this most foul, strange, and unnatural.
+HAMLET:
+Haste me to know't, that I, with wings as swift
+As meditation or the thoughts of love,
+May sweep to my revenge.(35)
+GHOST:
+I find thee apt;
+And duller shouldst thou be than the fat weed
+That roots itself in ease on Lethe wharf,
+Wouldst thou not stir in this. Now, Hamlet, hear.
+'tis given out that, sleeping in mine orchard,(40)
+A serpent stung me. So the whole ear of Denmark
+Is by a forged process of my death
+Rankly abused. But know, thou noble youth,
+The serpent that did sting thy father's life
+Now wears his crown.(45)
+HAMLET:
+O my prophetic soul! My uncle!
+GHOST:
+Ay, that incestuous, that adulterate beast,
+With witchcraft of his wit, with traitorous gifts—
+O wicked wit and gifts, that have the power
+So to seduce!—won to his shameful lust(50)
+The will of my most seeming-virtuous queen.
+O Hamlet, what a falling off was there!
+From me, whose love was of that dignity
+That it went hand in hand even with the vow
+I made to her in marriage, and to decline(55)
+Upon a wretch, whose natural gifts were poor
+To those of mine.
+But virtue, as it never will be moved,
+Though lewdness court it in a shape of heaven,
+So lust, though to a radiant angel link'd,(60)
+Will sate itself in a celestial bed
+And prey on garbage.
+But soft! methinks I scent the morning air.
+Brief let me be. Sleeping within my orchard,
+My custom always of the afternoon,(65)
+Upon my secure hour thy uncle stole,
+With juice of cursed hebenon in a vial,
+And in the porches of my ears did pour
+The leperous distilment, whose effect
+Holds such an enmity with blood of man(70)
+That, swift as quicksilver, it courses through
+The natural gates and alleys of the body,
+And, with a sudden vigour, it doth posset
+And curd, like eager droppings into milk,
+The thin and wholesome blood. So did it mine;(75)
+And a most instant tetter bark'd about,
+Most lazar-like, with vile and loathsome crust
+All my smooth body.
+Thus was I, sleeping, by a brother's hand
+Of life, of crown, of queen, at once dispatch'd;(80)
+Cut off even in the blossoms of my sin,
+Unhouseled, disappointed, unaneled,
+No reckoning made, but sent to my account
+With all my imperfections on my head.
+HAMLET:
+O, horrible! O, horrible! most horrible!(85)
+GHOST:
+If thou hast nature in thee, bear it not.
+Let not the royal bed of Denmark be
+A couch for luxury and damned incest.
+But, howsoever thou pursuest this act,
+Taint not thy mind, nor let thy soul contrive(90)
+Against thy mother aught. Leave her to heaven,
+And to those thorns that in her bosom lodge
+To prick and sting her. Fare thee well at once.
+The glow-worm shows the matin to be near
+And 'gins to pale his uneffectual fire.(95)
+Adieu, adieu, adieu! Remember me.
+[Exit.]
+
+HAMLET:
+O all you host of heaven! O earth! What else?
+And shall I couple hell? O, fie! Hold, hold, my heart!
+And you, my sinews, grow not instant old,
+But bear me stiffly up. Remember thee?(100)
+Ay, thou poor ghost, while memory holds a seat
+In this distracted globe. Remember thee?
+Yea, from the table of my memory
+I'll wipe away all trivial fond records,
+All saws of books, all forms, all pressures past,(105)
+That youth and observation copied there;
+And thy commandment all alone shall live
+Within the book and volume of my brain,
+Unmix'd with baser matter. Yes, by heaven!
+O most pernicious woman!(110)
+O villain, villain, smiling, damned villain!
+My tables—meet it is I set it down
+That one may smile, and smile, and be a villain;
+At least I am sure it may be so in Denmark.
+So, uncle, there you are. Now to my word:(115)
+It is ‘Adieu, adieu! Remember me.’
+I have sworn't.
+Enter Horatio and Marcellus.
+
+HORATIO:
+My lord, my lord!
+MARCELLUS:
+Lord Hamlet!
+HORATIO:
+Heaven secure him!(120)
+HAMLET:
+So be it!
+MARCELLUS:
+Illo, ho, ho, my lord!
+HAMLET:
+Hillo, ho, ho, boy! Come, bird, come.
+MARCELLUS:
+How is't, my noble lord?
+HORATIO:
+What news, my lord?(125)
+MARCELLUS:
+O, wonderful!
+HORATIO:
+Good my lord, tell it.
+HAMLET:
+No; you will reveal it.
+HORATIO:
+Not I, my lord, by heaven!
+MARCELLUS:
+Nor I, my lord.(130)
+HAMLET:
+How say you, then; would heart of man once think it?
+But you'll be secret?
+MARCELLUS AND BERNARDO:
+Ay, by heaven, my lord.
+HAMLET:
+There's ne'er a villain dwelling in all Denmark
+But he's an arrant knave.(135)
+HORATIO:
+There needs no ghost, my lord, come from the
+grave
+To tell us this.
+HAMLET:
+Why, right! You are in the right!
+And so, without more circumstance at all,(140)
+I hold it fit that we shake hands and part;
+You, as your business and desire shall point you—
+For every man hath business and desire,
+Such as it is; and for my own poor part,
+Look you, I'll go pray.(145)
+HORATIO:
+These are but wild and whirling words, my lord.
+HAMLET:
+I am sorry they offend you, heartily;
+Yes, faith, heartily.
+HORATIO:
+There's no offence, my lord.
+HAMLET:
+Yes, by Saint Patrick, but there is, Horatio,(150)
+And much offence too. Touching this vision here,
+It is an honest ghost, that let me tell you.
+For your desire to know what is between us
+O'ermaster't as you may. And now, good friends,
+As you are friends, scholars, and soldiers,(155)
+Give me one poor request.
+HORATIO:
+What is't, my lord? We will.
+HAMLET:
+Never make known what you have seen to-night.
+MARCELLUS AND BERNARDO:
+My lord, we will not.
+HAMLET:
+Nay, but swear't.(160)
+HORATIO:
+In faith,
+My lord, not I.
+MARCELLUS:
+Nor I, my lord, in faith.
+HAMLET:
+Upon my sword.
+MARCELLUS:
+We have sworn, my lord, already.(165)
+HAMLET:
+Indeed, upon my sword, indeed.
+GHOST:
+[Ghost cries under the stage.]
+
+Swear.
+HAMLET:
+Ah, ha boy, say'st thou so? Art thou there,
+truepenny?
+Come on! You hear this fellow in the cellarage.(170)
+Consent to swear.
+HORATIO:
+Propose the oath, my lord.
+HAMLET:
+Never to speak of this that you have seen.
+Swear by my sword.
+GHOST:
+Swear.(175)
+HAMLET:
+Hic et ubique? Then we'll shift our ground.
+Come hither, gentlemen,
+And lay your hands again upon my sword.
+Never to speak of this that you have heard:
+Swear by my sword.(180)
+GHOST:
+Swear.
+HAMLET:
+Well said, old mole! Canst work i' the earth so fast?
+A worthy pioner! Once more remove, good friends.
+HORATIO:
+O day and night, but this is wondrous strange!
+HAMLET:
+And therefore as a stranger give it welcome.(185)
+There are more things in heaven and earth, Horatio,
+Than are dreamt of in your philosophy.
+But come!
+Here, as before, never, so help you mercy,
+How strange or odd soe'er I bear myself—(190)
+As I perchance hereafter shall think meet
+To put an antic disposition on—
+That you, at such times seeing me, never shall,
+With arms encumber'd thus, or this head-shake,
+Or by pronouncing of some doubtful phrase,(195)
+As “Well, well, we know,” or “We could, an if we would,”
+Or “If we list to speak” or “There be, an if they might,”
+Or such ambiguous giving out, to note
+That you know aught of me; this is not to do,
+So grace and mercy at your most need help you,(200)
+Swear.
+GHOST:
+Swear.
+HAMLET:
+Rest, rest, perturbed spirit! So, gentlemen,
+With all my love I do commend me to you;
+And what so poor a man as Hamlet is(205)
+May do to express his love and friending to you,
+God willing, shall not lack. Let us go in together;
+And still your fingers on your lips, I pray.
+The time is out of joint. O cursed spite,
+That ever I was born to set it right!(210)
+Nay, come, let's go together.
+Exeunt.
