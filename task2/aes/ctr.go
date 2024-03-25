@@ -18,7 +18,18 @@ func NewCounter(iv []byte) *Counter {
 func (c *Counter) Next() []byte {
 	result := make([]byte, 16)
 	copy(result, c.iv)
-	result[15] += byte(c.count)
+
+	// increment the counter
+	tmp := c.count
+	for i := 15; i >= 0; i-- {
+		if tmp += uint64(result[i]); tmp <= 0xff {
+			result[i] = byte(tmp)
+			break
+		}
+		result[i] = byte(tmp)
+		tmp >>= 8
+	}
+
 	c.count++
 	return result
 }

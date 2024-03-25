@@ -7,9 +7,9 @@ import (
 )
 
 func main() {
-	testPlaintext := util.BytesFromHex("1fd4ee65603e6130cfc2a82ab3d56c24")
+	testPlaintext := util.BytesFromHex("1fd4ee65603e6130cfc2a82ab3d56c241fd4ee65603e6130cfc2a82ab3d56c24")
 	testKey := util.BytesFromHex("8809e7dd3a959ee5d8dbb13f501f2274")
-	testIV := util.BytesFromHex("e5c0bb535d7d54572ad06d170a0e58ae")
+	testIV := util.BytesFromHex("ffffffffffffffffffffffffffffffff")
 
 	// create a new cipher
 	cipher := aes.NewCipher(testKey, testIV, aes.CTR, aes.Key128)
