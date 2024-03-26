@@ -399,6 +399,18 @@ func (n *UnsignedBigNumber) Pow(exponent, mod *UnsignedBigNumber) *UnsignedBigNu
 	return result
 }
 
+// GreaterThan checks if one UnsignedBigNumber is greater than another
 func (n *UnsignedBigNumber) GreaterThan(other *UnsignedBigNumber) bool {
 	return !n.LessThan(other) && !n.Equals(other)
+}
+
+// FromBigInt converts a big.Int to an UnsignedBigNumber
+func FromBigInt(bigInt *big.Int) *UnsignedBigNumber {
+	// Convert the big.Int to a byte slice
+	bytes := bigInt.Bytes()
+	// Reverse the byte slice
+	for i, j := 0, len(bytes)-1; i < j; i, j = i+1, j-1 {
+		bytes[i], bytes[j] = bytes[j], bytes[i]
+	}
+	return &UnsignedBigNumber{Values: bytes}
 }

@@ -198,3 +198,8 @@ func (n *BigNumber) Equals(other *BigNumber) bool {
 	}
 	return n.AbsVal.Equals(other.AbsVal)
 }
+
+// BitLength returns the number of bits in the BigNumber
+func (n *BigNumber) BitLength() int {
+	return n.AbsVal.BitLength()
+}
